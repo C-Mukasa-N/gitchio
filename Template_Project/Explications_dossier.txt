@@ -1,0 +1,60 @@
+/GameProjectTemplate
+│
+├── /Docs
+│   ├── GameDesignDocument.md         # Document de design du jeu (GDD)
+│   ├── TechnicalDesignDocument.md    # Document de conception technique
+│   ├── TaskList.md                   # Liste des tâches et étapes du projet
+│   └── Notes.md                      # Notes et idées supplémentaires
+│
+├── /Assets
+│   ├── /Images                      # Graphiques et sprites
+│   ├── /Audio                       # Sons et musique
+│   ├── /Models                      # Modèles 3D
+│   ├── /Animations                  # Animations pour les personnages et objets
+│   └── /Shaders                     # Shaders (pour les jeux 3D)
+│
+├── /Scripts
+│   ├── /Python                      # Scripts Python (pour les projets utilisant Python)
+│   ├── /CSharp                      # Scripts C# (pour les projets Unity)
+│   ├── /JavaScript                  # Scripts JavaScript (pour les jeux web)
+│   └── ReadMe.md                    # Explication sur l'utilisation des scripts
+│
+├── /Scenes                          # Scènes du jeu (pour les moteurs comme Unity ou Godot)
+│   ├── /3D
+│   └── /2D
+│
+├── /Build                           # Dossier pour les fichiers de build/export du jeu
+│   ├── /Windows
+│   ├── /Mac
+│   └── /Web
+│
+├── /Config                          # Fichiers de configuration du projet
+│   └── settings.json                # Paramètres globaux du jeu
+│
+├── README.md                        # Instructions générales pour commencer le projet
+└── LICENSE                          # Fichier de licence du projet (si applicable)
+
+---------------------------------------------------------------------------------------------
+Explication des dossiers :
+* Docs : Un endroit pour tous les documents liés au développement du jeu. Commence par remplir le Game Design Document (GDD) pour définir les bases de ton jeu, puis travaille sur le document technique.
+
+* Assets : Tous les éléments visuels, audio, et modèles sont ici. Organise-les par type pour t'y retrouver facilement.
+
+* Scripts : Sépare les scripts par langage. Ce dossier te permet d'être flexible si tu utilises différents moteurs ou langages pour tes jeux.
+
+* Scenes : Ce dossier est surtout utile pour Unity, Godot, ou d'autres moteurs qui utilisent des scènes pour organiser les niveaux ou les environnements.
+
+* Build : C'est ici que tu mets les fichiers finaux de ton jeu, prêts à être testés ou distribués. Sépare les builds par plateforme pour éviter la confusion.
+
+* Config : Un endroit pour stocker tous les fichiers de configuration qui définissent les paramètres du jeu.
+
+* README.md : Le fichier principal pour documenter le projet. Tu peux l'utiliser pour noter les étapes importantes du développement ou les instructions spécifiques pour commencer le projet.
+
+Étapes à suivre pour démarrer un projet :
+* Remplir le Game Design Document (GDD) : Définis les grandes lignes de ton jeu (histoire, mécaniques, objectifs).
+* Préparer les Assets : Place les éléments graphiques et audio nécessaires dans les bons dossiers.
+* Configurer le projet : Configure le fichier de paramètres (settings.json) et définis les variables globales.
+* Créer les Scènes : Pour les moteurs comme Unity ou Godot, crée et organise les scènes de jeu.
+* Développer les Scripts : Rédige tes scripts en suivant la structure donnée dans le dossier /Scripts.
+* Construire et tester : Compile et teste ton jeu régulièrement pour identifier les bugs et améliorer le gameplay.
+* Documenter : Mets à jour le fichier README.md et les autres documents pour suivre l'évolution de ton projet.
