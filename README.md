@@ -6,6 +6,7 @@ Ce répertoire regroupe tous mes projets et exercices réalisés dans le cadre d
 
 - **Puissance3** : Un jeu de puzzle basé sur le classique "Puissance 3", développé en Python avec la bibliothèque pgzero. Ce projet est un défi personnel réalisé à la suite de plusieurs exercices de ma formation.
 - **Mastermind** : Un jeu de logique où le joueur doit deviner une combinaison de couleurs. Développé en Python avec la bibliothèque pgzero, ce projet vise à mettre en pratique mes compétences en programmation et en design de jeux.
+- **Breakout** : Un jeu où le joueur contrôle une banane maléfique glissant dans un magasin de verres, causant la destruction tout en récupérant des bonus. Ce projet a été développé pour me familiariser avec pgzero et les mécaniques de gestion des collisions et de bonus, tout en intégrant des aspects de progression de difficulté.
 
 ## Projets à Venir
 
