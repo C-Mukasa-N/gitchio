@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fa7d6d9d939bdd84a987da1ddf5c0e75
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - grainePrefab: {fileID: 2254227353540684738, guid: b592b2f69270fc340a7dc8853dc0fbcd, type: 3}
+  - jeunePoussePrefab: {fileID: 6859897379716762043, guid: 71fd2a89dfbe67f408116303e542a264, type: 3}
+  - arbrePrefab: {fileID: 919132149155446097, guid: 0fa7430274785ff4e9d79be5e8e3e7e9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
