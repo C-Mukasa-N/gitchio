@@ -97,6 +97,12 @@ MonoBehaviour:
   dureeJour: 5
   jourActuel: 1
   cycleTotal: 30
-  grainePrefab: {fileID: 0}
-  jeunePoussePrefab: {fileID: 0}
-  arbrePrefab: {fileID: 0}
+  grainePrefab: {fileID: 2254227353540684738, guid: b592b2f69270fc340a7dc8853dc0fbcd, type: 3}
+  jeunePoussePrefab: {fileID: 6859897379716762043}
+  arbrePrefab: {fileID: 919132149155446097, guid: 0fa7430274785ff4e9d79be5e8e3e7e9, type: 3}
+  positionGraine: {x: 0, y: 0, z: 0}
+  rotationGraine: {x: 0, y: 0, z: 0}
+  positionJeunePousse: {x: 0, y: 0, z: 0}
+  rotationJeunePousse: {x: 0, y: 0, z: 0}
+  positionArbre: {x: 0, y: 0, z: 0}
+  rotationArbre: {x: 0, y: 0, z: 0}

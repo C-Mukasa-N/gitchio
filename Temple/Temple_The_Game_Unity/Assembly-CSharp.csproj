@@ -64,6 +64,12 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.43f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Gameplay\fireManager.cs" />
+    <Compile Include="Assets\Scripts\Gameplay\tache.cs" />
+    <Compile Include="Assets\Scripts\Gameplay\menuRoutine.cs" />
+    <Compile Include="Assets\Scripts\Gameplay\taskClickManager.cs" />
+    <Compile Include="Assets\Scripts\Gameplay\routine.cs" />
+    <Compile Include="Assets\Scripts\Gameplay\pilier.cs" />
     <Compile Include="Assets\Scripts\Gameplay\stadeArbre.cs" />
   </ItemGroup>
   <ItemGroup>
