@@ -4,18 +4,22 @@ using UnityEngine;
 
 public class menuRoutine : MonoBehaviour
 {
+    public GameObject panel;
+    void Start()
+    {
+        // Masquer le menu au démarrage
+        if (panel != null)
+	    {
+		    panel.SetActive(false);
+	    }
+    }
     void OnMouseDown()
     {
-        // si liste routines = null, demander a ajouter une routine
-        if (routines == null)
+        // Lorsque l'objet est cliqué, afficher/masquer le menu
+        if (panel != null)
 	    {
-		    // ajouter une routine
-	    }
-        // si liste routine != null, afficher routine
-	    else
-	    {
-		    // afficher liste routines
+		    bool isActive = panel.activeSelf;
+            panel.SetActive(!isActive);
 	    }
     }
 }
-
