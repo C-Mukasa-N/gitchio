@@ -10,7 +10,23 @@ Ce répertoire regroupe tous mes projets et exercices réalisés dans le cadre d
 
 ## Projets à Venir
 
-D'autres projets et exercices seront ajoutés à ce répertoire à mesure que je progresse dans ma formation. Chaque projet aura son propre dossier et sa documentation associée pour expliquer son concept, sa conception technique et son développement.
+D'autres projets et exercices seront ajoutés à ce répertoire à mesure que je progresse dans ma formation.  
+Chaque projet aura son propre dossier et sa documentation associée pour expliquer son concept, sa conception technique et son développement.
+
+### The Black Cat In Orange (en cours de développement)
+**Genre :** Puzzle-aventure / Labyrinthe – Réflexion  
+**Plateforme :** PC  
+**Public Cible :** Tous âges, amateurs de jeux de logique et de défis cérébraux  
+
+Dans ce jeu inspiré des tests de cubes de Koh, le joueur incarne un chat noir qui doit s’échapper d’un mystérieux labyrinthe.  
+- **Objectif :** atteindre une première porte, puis une seconde, afin de réussir son évasion.  
+- **Mécanique clé :** le chat ne peut se déplacer que sur les cases de la même couleur que celle où il a commencé.  
+- **Déplacements :** via les touches fléchées du clavier.  
+- **Traces de pas :** des empreintes apparaissent sur chaque cube parcouru, permettant de visualiser le chemin emprunté.  
+- **Défi :** anticiper et planifier son trajet pour ne pas se retrouver bloqué.  
+- **Fin du niveau :** atteinte des deux portes dans le bon ordre.  
+
+Un jeu qui allie **exploration, réflexion et anticipation**, avec une esthétique minimaliste et une atmosphère intrigante.
 
 ## Objectif
 
