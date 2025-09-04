@@ -34,4 +34,4 @@ L'objectif de ce répertoire est de me permettre de documenter mes progrès, de 
 
 ## Contact
 
-Si vous avez des questions ou des retours sur mes projets, n'hésitez pas à me contacter ou à laisser un commentaire sur ma page https://mukasan.itch.io/ lorsque mes jeux y seront publiés.
+Si vous avez des questions ou des retours sur mes projets, n'hésitez pas à me contacter (mail : pr.chloe@live.com) ou à laisser un commentaire sur ma page https://mukasan.itch.io/ lorsque mes jeux y seront publiés.
