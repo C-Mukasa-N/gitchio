@@ -17,16 +17,10 @@ Each project will have its own folder and dedicated documentation explaining its
 ### The Black Cat In Orange (in development)
 **Genre:** Puzzle-adventure / Maze – Logic  
 **Platform:** PC  
+**Engine:** Unity
 **Target Audience:** All ages, puzzle and logic game enthusiasts  
 
 Inspired by Koh’s cube tests, this game puts the player in control of a black cat trying to escape a mysterious maze.  
-- **Goal:** Reach the first door, then a second one, to complete the escape.  
-- **Core mechanic:** The cat can only move on tiles of the same color as the starting one.  
-- **Movement:** Controlled with the keyboard arrow keys.  
-- **Footprints:** Paw prints appear on each cube to mark the path taken.  
-- **Challenge:** Plan ahead and anticipate movements to avoid getting stuck.  
-- **Level completion:** The level ends once both doors are reached in the correct order.  
-
 A game that combines **exploration, logic, and anticipation**, with a minimalist aesthetic and an intriguing atmosphere.  
 
 ## Purpose
