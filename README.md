@@ -17,7 +17,7 @@ Each project will have its own folder and dedicated documentation explaining its
 ### The Black Cat In Orange (in development)
 **Genre:** Puzzle-adventure / Maze – Logic  
 **Platform:** PC  
-**Engine:** Unity
+**Engine:** Unity 
 **Target Audience:** All ages, puzzle and logic game enthusiasts  
 
 Inspired by Koh’s cube tests, this game puts the player in control of a black cat trying to escape a mysterious maze.  
